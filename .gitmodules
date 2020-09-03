@@ -4,3 +4,6 @@
 [submodule "shell_project"]
 	path = shell_project
 	url = git@github.com:rbgithuub/subproject3.git
+[submodule "shell"]
+	path = shell
+	url = git@github.com:rbgithuub/subproject4.git
